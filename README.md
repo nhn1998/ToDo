@@ -1,4 +1,6 @@
-# React + Vite
+# TODO APP
+# 1. User can add his work
+# 2. if user completed his work he can mark those work on list as completed
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
